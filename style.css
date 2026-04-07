@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to top right,rgb(26, 24, 24),rgb(61, 52, 52),gray);
+    background-repeat: no-repeat;
+    height: 620px;
+    display: grid;
+    place-items: center;
+}
+
+
+#clock{
+ background-color: rgb(102, 102, 101);
+width: 200px;
+height: 100px;
+text-align: center;
+    
+    
+   
+
+}
